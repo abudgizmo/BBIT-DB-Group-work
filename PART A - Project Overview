@@ -1,20 +1,65 @@
-Project Idea Definition ( RDHWAN)
+PART A: PROJECT OVERVIEW 
+1. Project Idea Definition
 
+Retail watch shops handle many daily transactions involving customers purchasing watches of different brands, models, and prices. Many small retail shops still manage their sales, inventory, and customer records manually using notebooks or spreadsheets. This approach often leads to problems such as data redundancy, inaccurate stock records, lost transaction information, and difficulty generating sales reports.
 
-//INSERT YOUR ANSWER
+The proposed system is a Watch Retail Shop Sales Database System that will store and manage information related to watches, customers, sales transactions, employees, and suppliers. The database will allow the shop to record each sale, track inventory levels, and maintain customer purchase history.
 
+By implementing a structured database system, the watch shop will be able to store data efficiently, minimize redundancy, maintain data integrity, and generate useful reports for business decision making. The system will ensure that all sales transactions are properly recorded and that stock levels are updated automatically whenever a watch is sold.
 
+2. SCOPE AND OBJECTIVES
+SCOPE
 
-SCOPE (RIDHWAN)
+The scope of the project focuses on designing a database system that manages the core operations of a watch retail shop. The system will store and manage data related to:
 
-//INSERT YOUR ANSWER
+Watches available in the shop
 
-OBJECTIVES ( MATHEW)
+Watch brands and models
 
-//INSERT YOUR ANSWER
+Customers purchasing watches
 
+Sales transactions
 
-KEY STAKEHOLDER( MATHEW)
+Employees processing the sales
 
-//INSERT YOUR ANSWER
+Suppliers providing watches to the shop
 
+The system will primarily focus on sales processing and inventory tracking.
+
+OBJECTIVES
+
+The main objectives of the system are:
+
+To design a database that stores information about watches, customers, employees, and sales.
+
+To track and record all sales transactions in the shop.
+
+To maintain accurate inventory levels for all watches in stock.
+
+To store customer information and purchase history.
+
+To provide a structured system that improves efficiency in managing retail sales.
+
+3.STAKEHOLDERS 
+
+Several stakeholders will interact with or benefit from the database system.
+
+1. Shop Owner
+
+The shop owner will use the system to monitor business operations, track sales performance, manage inventory, and make business decisions.
+
+2. Sales Employees
+
+Sales employees will interact with the system when recording customer purchases and processing sales transactions.
+
+3. Customers
+
+Customers benefit indirectly from the system because it ensures accurate pricing, proper transaction records, and better service.
+
+4. Suppliers
+
+Suppliers provide watches to the retail shop. The system may store supplier information and track the watches supplied to the shop.
+
+5. System Administrator
+
+The system administrator will maintain the database, manage access rights, and ensure the database operates correctly
